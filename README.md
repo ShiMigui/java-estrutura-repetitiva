@@ -236,7 +236,7 @@ Fazer um programa para ler um número inteiro positivo N. O programa deve então
 
 #### Exercício 10 - Exemplos
 
-````bash
+```bash
 Number: 5
 
 1 1 1
